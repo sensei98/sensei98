@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sensei98
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning React JS 
--A third year computer science student at Inholland university
+- A third year computer science student at Inholland university
+
 
 
 <!---
