@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sensei98
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently learning React JS & python
 - A third year computer science student at Inholland university
 
 
