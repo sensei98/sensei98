@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sensei98
-- 👀 I’m interested in full-stack web development and backend development
-- 🌱 Polishing my python skills currently
-- A fourth year computer science student at Inholland university
+- 👀 Strong background in backend development
+- 🌱 Learning all about CI/CD and migration currently.
+- A final year computer science student at Inholland university
 
 
 
